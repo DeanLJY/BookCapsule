@@ -20,7 +20,7 @@
 
 ## How to Begin
 
-1. Clone the repository: `git clone https://github.com/FalloutOne/BookCapsule.git`
+1. Clone the repository: `git clone https://github.com/DeanLJY/BookCapsule.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Launch the application: `python3 app.py`
 
