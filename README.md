@@ -22,7 +22,7 @@
 
 1. Clone the repository: `git clone https://github.com/DeanLJY/BookCapsule.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
-3. Launch the application: `python3 app.py`
+3. Launch the application: `python3 views.py`
 
 For more detailed instructions and advanced usage, please refer to the source code.
 
